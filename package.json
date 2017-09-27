@@ -40,7 +40,7 @@
     }
   },
   "dependencies": {
-    "debug": "^1.0.4",
+    "debug": "^2.6.9",
     "express": "^4.8.5"
   },
   "devDependencies": {
